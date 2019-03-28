@@ -1,14 +1,14 @@
 # Site settings
 # in the templates available like {{ site.myvariable }}.
 title: Clean portfolio theme for Jekyll powered by Bootstrap 4.
-email: your-email@domain.com
-brand: xiao shuai
-headline: 你是猪，傻猪，臭猪，笨猪，乌克兰小乳猪
+email: 3038392818@qq.com@domain.com
+brand: LoveKitchen
+headline: My App is LoveKitchen, which has the teaching of cooking skills and users' publishing teaching skills. Users can learn a lot of cooking skills and share the experience of cooking with the App
 description: > # this means to ignore newlines until "baseurl:"
   New Site
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://example.com" # the base hostname & protocol for your site
-copyright: 2016 Whatever Company, Inc. All Rights Reserved.
+copyright: 2016 LoveKitchen, Inc. All Rights Reserved.
 
 # Build settings
 markdown: kramdown
